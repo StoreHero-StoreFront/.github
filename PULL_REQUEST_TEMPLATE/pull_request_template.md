@@ -1,4 +1,4 @@
-## Related issues
+## 📁 Related issues
 【WANT】このPRで該当ISSUEをcloseできる場合はIssue #を記載してください。
 close #
 
