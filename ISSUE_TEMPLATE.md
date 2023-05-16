@@ -21,3 +21,6 @@ assignees: ''
 - [ ] XXXX
 - [ ] XXXX
 - [ ] XXXX
+
+## Due date
+【MUST】実装が完了している必要がある日付を記載してください。
