@@ -1,6 +1,6 @@
 ## 📁 Related issues
 【WANT】このPRで該当ISSUEをcloseできる場合はIssue #を記載してください。
-close #
+closed #
 
 ## 🎫 Ticket
 【MUST】作業依頼されたNotionリンクを記載してください。
